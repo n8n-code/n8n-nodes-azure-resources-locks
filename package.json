@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-azure-resources-locks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure resource locks prevent unauthorized deletion or modification.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-azure-resources-locks",
